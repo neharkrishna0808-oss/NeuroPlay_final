@@ -131,3 +131,54 @@ Author
 Neha
 
 NEUROPLAY is a frontend project combining interactive interface design, React development, timed challenges, and cognitive memory-based gameplay.
+
+
+SCREENSHOTS OF THE WEBSITE:
+<img width="2880" height="1258" alt="image" src="https://github.com/user-attachments/assets/ca7fb65d-39ec-4a23-9d49-7b4afdefb7f9" />
+
+This is the homepage of NeuroPlay. 
+There are three types of games to test your different cognitive aspects:
+<img width="2874" height="1324" alt="image" src="https://github.com/user-attachments/assets/d740765c-0100-46cd-8ed9-4fdd8b432fc1" />
+
+The First Game is called NeuroRead:
+<img width="2880" height="1326" alt="image" src="https://github.com/user-attachments/assets/0f84630d-6b27-4ceb-85a8-24792959ed4f" />
+it is a game that tests your comprehensive skills by having you read through a passage with words that are jumbled, with the first and last letter of each words being the same as the original word. eg: reading -- rdeiang. The user will be expected to read and comprehend the jumbled paragraph and comprehend and answer the 2 questions after each level. There are 5 levels. each level will have more content and a time constraint. 
+<img width="2880" height="1328" alt="image" src="https://github.com/user-attachments/assets/5c0d38dd-b622-441c-93a7-efead860e5c0" />
+After the time limit passes:
+<img width="2878" height="1330" alt="image" src="https://github.com/user-attachments/assets/c623824f-3fbb-472c-b2b5-f7fa5efc7062" />
+<img width="2874" height="1330" alt="image" src="https://github.com/user-attachments/assets/71e6aa52-9ad7-42e1-b333-83dafc0ac6bb" />
+Then the game gives you a final grade for your comprehension skills.
+
+The next game is called NeuroFlash:
+It tests how you fast your brain visualises and retains information in a short time-frame
+<img width="2880" height="1326" alt="image" src="https://github.com/user-attachments/assets/0c32e9a9-76c9-4855-8f66-ae52c3ed8d20" />
+<img width="2122" height="972" alt="image" src="https://github.com/user-attachments/assets/581d87aa-3629-46b0-945e-8f4aefc41ccd" />
+<img width="2880" height="1320" alt="image" src="https://github.com/user-attachments/assets/a0ab6137-ea1a-443a-9cb9-3e173d969ea5" />
+<img width="2878" height="1318" alt="image" src="https://github.com/user-attachments/assets/b3de7165-95c9-4f01-b894-4ba64744c0f2" />
+
+The last game is called NeuroRecall:
+It is a memory game where you will be given 45 seconds to memorise and list down each of the given elements and there are 5 levels. with each level the number of elements to be memorised increases.
+<img width="2880" height="1324" alt="image" src="https://github.com/user-attachments/assets/07fc5f96-b7d9-4dd1-a789-e88fdfb9bd17" />
+<img width="2880" height="1320" alt="image" src="https://github.com/user-attachments/assets/f22cb3ee-0bd1-4081-b4d1-4cdf4443db51" />
+<img width="2880" height="1326" alt="image" src="https://github.com/user-attachments/assets/596e3dc3-a87e-4256-b293-af8bd9cd0d9a" />
+<img width="2878" height="1324" alt="image" src="https://github.com/user-attachments/assets/b062bf4c-8a09-4382-aae2-9d3f3b8c772d" />
+<img width="2880" height="1322" alt="image" src="https://github.com/user-attachments/assets/e7461adb-c5ed-4fa2-b93f-ed45f8615bc9" />
+
+VIDEO DEMO OF THE WEBSITE:
+https://drive.google.com/file/d/1rYZPE1RBCQQOFfVKSs_YaWE-Lw90jp0L/view?usp=sharing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
