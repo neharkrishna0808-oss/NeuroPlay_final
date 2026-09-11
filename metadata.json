@@ -1,0 +1,6 @@
+{
+  "name": "NEUROPLAY",
+  "description": "Challenge the way you think — a polished, modern brain-training game platform featuring NeuroRead, NeuroFlash, and NeuroRecall.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
